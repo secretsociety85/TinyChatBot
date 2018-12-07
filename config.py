@@ -1,9 +1,9 @@
 # Tinychat account.
-ACCOUNT = ''
+ACCOUNT = ''newsecretsociety
 # Password for account
-PASSWORD = ''
-BOTNICK = 'BuddyBot'
-# Define rooms the bot will manage in a list format : ['room1','room2','room3']
+PASSWORD = '' Buck5891
+BOTNICK = 'secretBot'
+# Define rooms the bot will manage in a list format : ['newsecretsociety','gpsecretsociety','thinkfreely']
 ROOMS = ['fobcity']
 B_ANNOUNCEMENT = 'Default Room Announcement, thanks for using Buddybot by odsum.  !annoucement <msg> to change.'
 

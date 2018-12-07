@@ -1,10 +1,10 @@
 # Tinychat account.
-ACCOUNT = ''
+ACCOUNT = ''newsecretsociety
 # Password for account
-PASSWORD = ''
-BOTNICK = 'BuddyBot'
+PASSWORD = ''Buck5891
+BOTNICK = 'secretBot'
 # Define rooms the bot will manage in a list format : ['room1','room2','room3']
-ROOMS = ['fobcity']
+ROOMS = ['newsecretsociety']
 B_ANNOUNCEMENT = 'Default Room Announcement, thanks for using Buddybot by odsum.  !annoucement <msg> to change.'
 
 # Fallback rtc version.
@@ -28,7 +28,7 @@ CONFIG_PATH = 'rooms/'
 B_PREFIX = '!'
 
 # The maximum amount of match bans.
-B_MAX_MATCH_BANS = 1
+B_MAX_MATCH_BANS = 600
 # Public commands enabled.
 B_PUBLIC_CMD = True
 # Greet user when joining.
